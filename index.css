@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'inter-bold' ;
-    src: url(./assets/fonts/static/Inter-Bold.ttf);
+    src: url(./Inter-Bold.ttf);
 }
 
 @font-face {
     font-family: 'inter-regular';
-    src: url(./assets/fonts/static/Inter-Regular.ttf);
+    src: url(./Inter-Regular.ttf);
 }
 *, *::before, *::after {
     box-sizing: border-box;
